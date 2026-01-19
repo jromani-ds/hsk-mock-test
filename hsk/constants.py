@@ -15,12 +15,12 @@ HSK_EXAM_STRUCTURE = {
     1: 40,  # ~40 items
     2: 60,  # ~60 items
     3: 80,  # 80 items
-    4: 100, # 100 items
-    5: 100, # 100 items
-    6: 101, # 101 items
+    4: 100,  # 100 items
+    5: 100,  # 100 items
+    6: 101,  # 101 items
     7: 98,  # Advanced Band (Est.)
     8: 98,
-    9: 98
+    9: 98,
 }
 
 # HSK Level Descriptions

@@ -1,8 +1,8 @@
 import json
-import os
-from typing import List, Dict, Optional
-from hsk.models import Word, GrammarRule
 from pathlib import Path
+from typing import Optional
+
+from hsk.models import GrammarRule, Word
 
 
 class DataEngine:
@@ -14,22 +14,22 @@ class DataEngine:
         else:
             # Default to 'data' directory relative to this file
             self.data_path = Path(__file__).parent / "data"
-        
-        self.words: Dict[int, List[Word]] = {}  # Level -> List[Word]
-        self.grammar_rules: Dict[int, List[GrammarRule]] = {} # Level -> List[GrammarRule]
-        self.radicals: Dict[str, str] = {} # Character -> Radical
+
+        self.words: dict[int, list[Word]] = {}  # Level -> List[Word]
+        self.grammar_rules: dict[int, list[GrammarRule]] = {}  # Level -> List[GrammarRule]
+        self.radicals: dict[str, str] = {}  # Character -> Radical
 
     def load_level_data(self, level: int) -> None:
         """Loads vocabulary and grammar for a specific level."""
         file_path = self.data_path / f"level_{level}.json"
-        
+
         if not file_path.exists():
             raise FileNotFoundError(f"Data file for level {level} not found: {file_path}")
 
         try:
-            with open(file_path, 'r', encoding='utf-8') as f:
+            with open(file_path, encoding="utf-8") as f:
                 data = json.load(f)
-                
+
             # Load Words (Deduplicated)
             words_data = data.get("vocabulary", [])
             unique_words = {}
@@ -37,7 +37,7 @@ class DataEngine:
                 hanzi = w["hanzi"]
                 if hanzi not in unique_words:
                     unique_words[hanzi] = w
-            
+
             self.words[level] = [
                 Word(
                     hanzi=w["hanzi"],
@@ -47,8 +47,9 @@ class DataEngine:
                     radicals=w.get("radicals", []),
                     sentences=w.get("sentences", []),
                     pos=w.get("pos", []),
-                    frequency=w.get("frequency", 0)
-                ) for w in unique_words.values()
+                    frequency=w.get("frequency", 0),
+                )
+                for w in unique_words.values()
             ]
 
             # Load Grammar
@@ -59,8 +60,9 @@ class DataEngine:
                     description=g["description"],
                     structure=g["structure"],
                     level=level,
-                    example=g["example"]
-                ) for g in grammar_data
+                    example=g["example"],
+                )
+                for g in grammar_data
             ]
 
         except json.JSONDecodeError:
@@ -79,15 +81,15 @@ class DataEngine:
             return
 
         try:
-            with open(file_path, 'r', encoding='utf-8') as f:
+            with open(file_path, encoding="utf-8") as f:
                 self.radicals = json.load(f)
         except json.JSONDecodeError:
-             print("Error decoding radicals JSON")
+            print("Error decoding radicals JSON")
 
-    def get_words_for_level(self, level: int) -> List[Word]:
+    def get_words_for_level(self, level: int) -> list[Word]:
         return self.words.get(level, [])
 
-    def get_grammar_for_level(self, level: int) -> List[GrammarRule]:
+    def get_grammar_for_level(self, level: int) -> list[GrammarRule]:
         return self.grammar_rules.get(level, [])
 
     def get_radical_hint(self, character: str) -> Optional[str]:

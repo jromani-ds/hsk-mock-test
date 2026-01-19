@@ -1,6 +1,5 @@
 """Tests for HSK application"""
 
-import pytest
 from hsk import __version__
 
 
