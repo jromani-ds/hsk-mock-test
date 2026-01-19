@@ -49,30 +49,75 @@ def process_data():
     levels_data: Dict[int, Dict[str, List[Any]]] = {} # level -> {vocab: [], grammar: []}
     used_characters: Set[str] = set()
     
+def tokenize_sentence(text: str, word_map: Dict[str, int]) -> List[str]:
+    """
+    Tokenizes text using MaxMatch against the provided word_map.
+    Returns a list of token strings.
+    """
+    tokens = []
+    start = 0
+    n = len(text)
+    
+    while start < n:
+        matched_word = ""
+        step = 1
+        
+        # Try lengths 4 down to 1
+        for length in range(4, 0, -1):
+            if start + length > n: continue
+            
+            sub = text[start : start+length]
+            if sub in word_map:
+                matched_word = sub
+                step = length
+                break
+        
+        if matched_word:
+            tokens.append(matched_word)
+        else:
+            # If no match (unknown char), treat as single char token (or ignore?)
+            # For HSK linking, strictly we only care about matched words.
+            # But for "level check", unknown words are risky. 
+            # We add single char as token to handle it.
+            tokens.append(text[start])
+            
+        start += step
+        
+    return tokens
+
+def get_max_level(tokens: List[str], word_map: Dict[str, int]) -> int:
+    """Calculates max HSK level from tokens"""
+    max_lvl = 0
+    for t in tokens:
+        max_lvl = max(max_lvl, word_map.get(t, 0))
+    return max_lvl
+
 def link_sentences(levels_data: Dict[int, Dict[str, List[Any]]]):
     """
     Links sentences from sentences.tsv to vocabulary words.
-    Algorithm:
-    1. Build map: FirstChar -> List[WordObject]
-    2. Stream sentences.
-    3. For each char in sentence, check if it starts a known word.
-    4. If so, add sentence to word (limit 5).
+    STRICT MODE: Only links if sentence_level <= word_level.
     """
-    print("Linking sentences...")
+    print("Linking sentences (Strict Mode)...")
     SENTENCES_FILE = DATA_DIR / "sentences.tsv"
     if not SENTENCES_FILE.exists():
         print("Warning: sentences.tsv not found. Skipping.")
         return
 
-    # 1. Build Index: Char -> List of (Level, VocabIndex, WordHanzi)
-    # We need to reference the actual dict object to append to it.
-    # Store: char -> list of dicts (the vocab objects themselves)
+    # 1. Build Global Word Map (Hanzi -> Level) for Filtering
+    all_word_levels: Dict[str, int] = {}
+    for level, data in levels_data.items():
+        for w in data["vocabulary"]:
+            if w["hanzi"]:
+                # If duplicate, keep lowest level usually, but HSK 3.0 is strict.
+                if w["hanzi"] not in all_word_levels:
+                    all_word_levels[w["hanzi"]] = level
+
+    # 2. Build Index: Char -> List of dicts
     word_index: Dict[str, List[Dict[str, Any]]] = {}
-    
     total_words = 0
     for level, data in levels_data.items():
         for word in data["vocabulary"]:
-            word["sentences"] = [] # Initialize
+            word["sentences"] = [] # Reset
             hanzi = word["hanzi"]
             if not hanzi: continue
             
@@ -82,43 +127,72 @@ def link_sentences(levels_data: Dict[int, Dict[str, List[Any]]]):
             word_index[first_char].append(word)
             total_words += 1
             
-    print(f"Indexed {total_words} words for sentence matching.")
+    print(f"Indexed {total_words} words for matching.")
 
-    # 2. Stream Sentences
+    # 3. Stream Sentences
     matched_count = 0
+    skipped_count = 0
+    
+    MIN_SENTENCE_LENGTH = 6
+    BLACKLIST_SENTENCE_IDS = {"43078", "22981"} # 22981 is "有罢工。", 43078 is "半夜...挨..."
+
     with open(SENTENCES_FILE, 'r', encoding='utf-8') as f:
         reader = csv.reader(f, delimiter='\t')
         for i, row in enumerate(reader):
             if len(row) < 2: continue
             
+            sentence_id = row[0]
             sentence = row[1].strip()
+            
             if not sentence: continue
             
-            # Simple substring linking
-            # Optimization: Check chars present
-            # We iterate the sentence. If char in word_index, check matches.
+            # Filters
+            if sentence_id in BLACKLIST_SENTENCE_IDS:
+                continue
+            if len(sentence) < MIN_SENTENCE_LENGTH:
+                continue
             
-            # Helper to keep track of words matched in THIS sentence to avoid duplicates
+            # 3a. Tokenize & Level Check
+            tokens = tokenize_sentence(sentence, all_word_levels)
+            
+            # Filter: Check if sentence contains ANY unknown words?
+            # Current strict logic: max level of KNOWN words.
+            sent_max_level = get_max_level(tokens, all_word_levels)
+            
+            # 3b. Link to eligible words
             matched_words_in_sentence = set()
             
-            for j, char in enumerate(sentence):
-                if char in word_index:
-                    potential_words = word_index[char]
-                    for word_obj in potential_words:
+            # Check distinct tokens
+            for token in tokens:
+                if not token: continue
+                
+                # word_index keys are the FIRST CHAR of the word.
+                # So we look up lists by token[0], then find exact match.
+                first_char = token[0]
+                
+                if first_char in word_index:
+                    potential_words = word_index[first_char]
+                    
+                    found_word_objs = [w for w in potential_words if w["hanzi"] == token]
+                    
+                    for word_obj in found_word_objs:
                         target = word_obj["hanzi"]
-                        # Check if matches at position j
-                        if sentence[j:].startswith(target):
-                            # MATCH!
+                        target_level = all_word_levels.get(target, 99)
+                        
+                        # STRICT LEVEL CHECK: Sentence Diff <= Word Level
+                        if sent_max_level <= target_level:
                             if id(word_obj) not in matched_words_in_sentence:
                                 if len(word_obj["sentences"]) < 5:
                                     word_obj["sentences"].append(sentence)
                                     matched_count += 1
                                 matched_words_in_sentence.add(id(word_obj))
-            
+                        else:
+                            skipped_count += 1
+
             if i % 10000 == 0:
                 print(f"Processed {i} sentences...")
 
-    print(f"Linked sentences to words. Total matches events: {matched_count}")
+    print(f"Linked (Strict). Matches: {matched_count}. Skipped Links (Too Hard): {skipped_count}")
 
 def process_data():
     radicals_map = load_radicals()
@@ -170,7 +244,7 @@ def process_data():
         if not hanzi:
             continue
             
-        # Get pinyin/meaning from first form
+        # Get pinyin/meaning/pos
         forms = entry.get("forms", [])
         if not forms:
             continue
@@ -179,6 +253,9 @@ def process_data():
         pinyin = first_form.get("transcriptions", {}).get("pinyin", "")
         meanings = first_form.get("meanings", [])
         meaning_str = "; ".join(meanings)
+        
+        pos_list = entry.get("pos", []) # ["n"], ["v"] etc
+        frequency = entry.get("frequency", 99999)
         
         # Radicals
         word_radicals = []
@@ -193,8 +270,10 @@ def process_data():
                 "hanzi": hanzi,
                 "pinyin": pinyin,
                 "meaning": meaning_str,
+                "pos": pos_list, 
                 "radicals": word_radicals,
-                "sentences": [] # Init
+                "sentences": [], # Init
+                "frequency": frequency
             })
 
     # Link Sentences

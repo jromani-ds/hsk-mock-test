@@ -1,0 +1,73 @@
+Level	Question ID	Prompt	Correct Answer	Options	Meaning	POS
+HSK_Level_1	CLOZE_冷	Fill in the blank: 今天早上很____，不是吗?	冷	高|白|都|冷	surname Leng	a,ad,g
+HSK_Level_1	CLOZE_门口	Fill in the blank: 在____的女孩是谁？	门口	国外|门口|车上|地上	doorway; gate	s
+HSK_Level_1	CLOZE_这些	Fill in the blank: “____车是你的吗？”“是的，是我的。”	这些	那边|那些|哪些|这些	these	r
+HSK_Level_1	CLOZE_没关系	Fill in the blank: 你喜不喜欢____。	没关系	打电话|没关系|没事儿|没什么	it doesn't matter	v
+HSK_Level_1	CLOZE_元	Fill in the blank: 他花了1000日____买这本书。	元	本|包|班|元	surname Yuan; the Yuan or Mongol dynasty (1279-1368)	q,tg
+HSK_Level_1	CLOZE_看到	Fill in the blank: 你____什么拿什么。	看到	看到|见面|看见|看病	to see	v
+HSK_Level_1	CLOZE_课	Fill in the blank: 你最喜欢哪门____?	课	分|的|点|课	subject; course; class; lesson; to levy; tax; form of divination	n
+HSK_Level_1	CLOZE_出来	Fill in the blank: 有个男人开门走了____。	出来	出去|进来|出来|回来	to come out; to appear; to arise	v
+HSK_Level_1	CLOZE_子	Fill in the blank: 这个馓____太好吃了！	子	老|男|子|分	son; child; seed; egg; small thing; 1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat; Viscount, fourth of five orders of nobility 位; ancient Chinese compass point: 0° (north); subsidiary; subordinate; sub-	g,q
+HSK_Level_1	CLOZE_风	Fill in the blank: 今天比昨天多____。	风	白|爸|字|风	wind; news; style; custom; manner	n,g
+HSK_Level_2	CLOZE_全国	Fill in the blank: 我们的分店布满____。	全国	全身|全国|全年|全家	whole nation; nationwide; countrywide; national	n
+HSK_Level_2	CLOZE_做法	Fill in the blank: 他有他自己的____。	做法	做法|单位|好事|办法	way of handling sth; method for making; work method; recipe; practice	n
+HSK_Level_2	CLOZE_云	Fill in the blank: 今天的____比昨天的多。	云	表|道|笔|云	(classical) to say	n,g,b
+HSK_Level_2	CLOZE_闻	Fill in the blank: 你还知道花____起来是怎样的吗？	闻	闻|成|查|封	surname Wen	v
+HSK_Level_2	CLOZE_教育	Fill in the blank: 他很会____人。	教育	放心|放下|教育|教学	to educate; to teach; education	vn,v
+HSK_Level_2	CLOZE_科学	Fill in the blank: ____和数学我都喜欢。	科学	个子|中医|科学|饺子	science; scientific knowledge; scientific; rational	n,a,ad
+HSK_Level_2	CLOZE_拉	Fill in the blank: 这个沙____有柠檬的味道。	拉	挺|画|接|拉	to pull; to play (a bowed instrument); to drag; to draw; to chat; (coll.) to empty one's bowels	v,b
+HSK_Level_2	CLOZE_检查	Fill in the blank: 我们得去让眼医师____你的眼睛。	检查	干杯|检查|关机|带来	inspection; to examine; to inspect	v,vn
+HSK_Level_2	CLOZE_漂亮	Fill in the blank: 你给了我一个那么____的礼物，真是太好了。	漂亮	漂亮|不错|流利|不满	pretty; beautiful	a
+HSK_Level_2	CLOZE_客人	Fill in the blank: 我回来了！啊？我们有____啊？	客人	顾客|爱人|客人|游客	visitor; guest; customer; client	n
+HSK_Level_3	CLOZE_适应	Fill in the blank: 你很快就会____你的新学校。	适应	报道|配合|适应|适合	to adapt; to fit; to suit	v,vn
+HSK_Level_3	CLOZE_关系	Fill in the blank: Jim 和同学的____不太好。	关系	关系|从事|只有|交往	relation; relationship; to concern; to affect; to have to do with; guanxi	n,v
+HSK_Level_3	CLOZE_糖	Fill in the blank: 喝茶时不要加____。	糖	糖|布|板|报	sugar; sweets; candy	n
+HSK_Level_3	CLOZE_创造	Fill in the blank: ____性是人类发展的一个重要方面。	创造	创造|成就|产生|造成	to create; to bring about; to produce; to set (a record)	v,vn
+HSK_Level_3	CLOZE_时代	Fill in the blank: 她给我看了一张她母亲学生____的照片。	时代	消息|时代|美元|媒体	Time, US weekly news magazine	n
+HSK_Level_3	CLOZE_容易	Fill in the blank: 打网球对我来说很____。	容易	结实|丰富|容易|明确	easy; straightforward; likely; liable to; apt to	a,ad
+HSK_Level_3	CLOZE_文字	Fill in the blank: 我需要有人来帮我修____处理器。	文字	文字|外文|方式|性格	character; script; writing; written language; writing style; phraseology	n
+HSK_Level_3	CLOZE_听力	Fill in the blank: 我爷爷的____不太好。	听力	听力|本领|能力|才能	hearing; listening ability	n
+HSK_Level_3	CLOZE_力量	Fill in the blank: 我相信，知识就是____。	力量	生意|力量|实力|动力	power; force; strength	n
+HSK_Level_3	CLOZE_巧	Fill in the blank: 去得早不如去得____。	巧	板|古|巧|富	opportunely; coincidentally; as it happens; skillful; timely	a,ad
+HSK_Level_4	CLOZE_作出	Fill in the blank: 汤姆是最先____反应的。	作出	出售|对付|作出|摆脱	to put out; to come up with; to make (a choice, decision, proposal, response, comment etc); to issue (a permit, statement, explanation, apology, reassurance to the public etc); to draw (conclusion); to deliver (speech, judgment); to devise (explanation); to extract	v
+HSK_Level_4	CLOZE_盘	Fill in the blank: 我保证在一个星期内把这____录影带还给你。	盘	顶|批|盘|卷	plate; dish; tray; board; hard drive (computing); to build; to coil; to check; to examine; to transfer (property); to make over; classifier for food: dish, helping; to coil; classifier for coils of wire; classifier for games of chess	qv,g,v
+HSK_Level_4	CLOZE_关闭	Fill in the blank: ____所有的门和窗户。	关闭	测试|关闭|倒闭|上门	to close; to shut (a window etc); (of a shop, school etc) to shut down	v,vn
+HSK_Level_4	CLOZE_距离	Fill in the blank: 交际者的关系往往会反映在他们之间的____上。	距离	距离|针对|面试|孙子	distance; to be apart from	n,p
+HSK_Level_4	CLOZE_从此	Fill in the blank: 她____就留在国外了。	从此	从此|单独|反而|按时	from now on; since then; henceforth	d
+HSK_Level_4	CLOZE_丈夫	Fill in the blank: 他会是我妹妹的好____的。	丈夫	夫妻|夫妇|老公|丈夫	husband	n
+HSK_Level_4	CLOZE_受不了	Fill in the blank: 我____那种政治家。	受不了	受不了|没法儿	unbearable; unable to endure; can't stand	l
+HSK_Level_4	CLOZE_原则	Fill in the blank: 诚实地回答你的问题对他来说是个____问题。	原则	阿姨|规则|原料|原则	principle; doctrine	n
+HSK_Level_4	CLOZE_零食	Fill in the blank: 我们有任何我可以当____吃的东西吗？	零食	食堂|阿姨|零食|粮食	between-meal nibbles; snacks	n
+HSK_Level_4	CLOZE_减	Fill in the blank: 汤姆____量30KG。	减	减|摆|沉|败	to lower; to decrease; to reduce; to subtract; to diminish	v
+HSK_Level_5	CLOZE_跟随	Fill in the blank: 我已经准备好____你了。	跟随	按摩|安慰|跟随|拜访	to follow	v
+HSK_Level_5	CLOZE_传真	Fill in the blank: 我前几天收到了你的____。	传真	传达|真理|传递|传真	fax; facsimile	n,v
+HSK_Level_5	CLOZE_原始	Fill in the blank: 巫术在____社会扮演重要角色。	原始	安慰|薄弱|原始|自豪	first; original; primitive; original (document etc)	a
+HSK_Level_5	CLOZE_拥有	Fill in the blank: “如果不努力工作就不会____成功的人生”，这种说法得到广泛的认可。	拥有	带有|占有|有着|拥有	to have; to possess	v
+HSK_Level_5	CLOZE_寿司	Fill in the blank: 这家店的____很好吃。	寿司	岸上|长寿|安慰|寿司	sushi	
+HSK_Level_5	CLOZE_分类	Fill in the blank: 邮局根据寄信地址将邮件进行____。	分类	分类|分解|处分|分成	to classify	vn,v
+HSK_Level_5	CLOZE_严肃	Fill in the blank: ____的讲在这里只有我一个人不会双语的吗？	严肃	尊重|严厉|严肃|厉害	solemn; grave; serious; earnest; severe	a,ad,v
+HSK_Level_5	CLOZE_忍不住	Fill in the blank: 一逛马路，总要____买点东西回去。	忍不住	忍不住|舍不得|意味着|有利于	cannot help; unable to bear	v
+HSK_Level_5	CLOZE_用来	Fill in the blank: 那就是那台他____写文章的电脑。	用来	通用|完了|用来|心疼	to be used for	v,nr
+HSK_Level_5	CLOZE_感想	Fill in the blank: 你对这场比赛有甚么____？	感想	悲剧|感想|白酒|包装	impressions; reflections; thoughts	n
+HSK_Level_6	CLOZE_踏实	Fill in the blank: 我是个脚____地的人。	踏实	过时|抱歉|不便|踏实	firmly-based; steady; steadfast; to have peace of mind; free from anxiety; Taiwan pr. [tà shí]	a
+HSK_Level_6	CLOZE_升值	Fill in the blank: 日元强力____。	升值	办公|增值|升值|波动	to rise in value; to appreciate	v,vn
+HSK_Level_6	CLOZE_繁殖	Fill in the blank: 老鼠____得很快。	繁殖	繁殖|办公|挨打|罢工	to breed; to reproduce; to propagate	v,vn
+HSK_Level_6	CLOZE_副	Fill in the blank: 你如果能把全____精力放进去，要学会英文并不是难事。	副	股|集|串|副	secondary; auxiliary; deputy; assistant; vice-; abbr. for 副词 adverb; classifier for pairs, sets of things & facial expressions	b,q
+HSK_Level_6	CLOZE_出路	Fill in the blank: 那是唯一的____。	出路	阴影|桥梁|出路|焦点	a way out (lit. and fig.); opportunity for advancement; a way forward; outlet (for one's products)	n
+HSK_Level_6	CLOZE_会见	Fill in the blank: 如果他打电话过来，告诉他我晚点____他的。	会见	补习|会见|出事|出台	to meet with (sb who is paying a visit)	v,vn
+HSK_Level_6	CLOZE_首次	Fill in the blank: 在一九五八年，巴西____夺得了世界杯的冠军。	首次	多半|大批|首次|一时	first; first time; for the first time	m
+HSK_Level_6	CLOZE_集	Fill in the blank: 这套全____的第五卷找不到了。	集	集|拐|股|串	to gather; to collect; collected works; classifier for sections of a TV series etc: episode	q,g
+HSK_Level_6	CLOZE_剑	Fill in the blank: 警方很能明白有人偷了我的信用卡，并提了好多钱。让他们相信”有人偷了我的魔____“要难得多。	剑	股|肝|剑|串	double-edged sword; classifier for blows of a sword	n
+HSK_Level_6	CLOZE_讲课	Fill in the blank: 假如你在老师____的时候再集中一点去听讲的话，你应该就能弄明白了。	讲课	挨打|补课|讲课|挨着	teach; lecture	v,vn
+HSK_Level_7	FIB_固定短语 - 其他	Complete the pattern for '固定短语 - 其他': 短语. Example: See 其他	归根到底		after all; in the final analysis; ultimately	l
+HSK_Level_8	FIB_复句 - 解说复句	Complete the pattern for '复句 - 解说复句': 句子的类型. Example: See 解说复句	……，也就是说……			
+HSK_Level_9	CLOZE_金属	Fill in the blank: 酸会和____物质起化学反应。	金属	属性|定金|所属|金属	metal	n
+HSK_Level_9	CLOZE_魅力	Fill in the blank: 自大狂和自恋狂的分别，在于自大狂渴望能够手握大权、受人敬畏，而自恋狂却比较想拥有____、得到爱戴。许多疯子和历史上的伟人都属于前者。	魅力	效力|力度|魅力|武力	charm; fascination; glamor; charisma	n
+HSK_Level_9	CLOZE_革命	Fill in the blank: 这场____已经带来了很多改变。	革命	出丑|拜会|革命|要命	to withdraw the mandate of heaven (and transition to a new dynasty) (original meaning); revolution; revolutionary; to revolt (against sb or sth); to revolutionize (sth); (separable verb sometimes used in the pattern 革noun的命)	vn,v
+HSK_Level_9	CLOZE_领域	Fill in the blank: 让我们记住这一点，如果说这场金融危机教会了我们什么东西的话，那就是我们不可能在金融以外的____处于困境的同时拥有繁荣兴旺的华尔街。	领域	领域|地域|流域|领土	domain; sphere; field; territory; area	n
+HSK_Level_9	CLOZE_唯	Fill in the blank: 俗话说：三百六十行，行行出状元；可俗话又说：万般皆下品，____有读书高！	唯	独|略|则|唯	only; alone; -ism (in Chinese, a prefix, often combined with a suffix such as 主义 or 论, e.g. 唯理论, rationalism)	d
+HSK_Level_9	CLOZE_生物	Fill in the blank: 据说火星上是没有____的。	生物	生平|生涯|生物|生机	organism; living creature; life form; biological	n
+HSK_Level_9	CLOZE_婚姻	Fill in the blank: 现在女性考虑____的唯一条件,应该就是你爱不爱他,他爱不爱你,是不是真心真意对你,跟他在一起会不会有压力,会不会快乐,而非他拥有什么!	婚姻	婚纱|喜酒|婚姻|喜事	matrimony; wedding; marriage	n
+HSK_Level_9	CLOZE_淘汰	Fill in the blank: 共产主义失败了，而无产阶级专政现在也经被____了。虽然资本主义逐渐取而代之，但现在的资本主义对于人类还是一个威胁。	淘汰	熄火|处方|淘汰|出局	to wash out; (fig.) to cull; to weed out; to eliminate; to die out; to phase out	v,vn
+HSK_Level_9	CLOZE_官员	Fill in the blank: 虽然她知道那家公司不但对当地____行贿而且也给她的家人带了了极大的麻烦，可她还是应聘了那家公司的一份工作。	官员	跑车|官员|官吏|雇员	official (in an organization or government); administrator	n
+HSK_Level_9	CLOZE_毫无	Fill in the blank: 没有爱情的生活____意义。	毫无	无意|无缘|拜会|毫无	not in the least; to completely lack	v

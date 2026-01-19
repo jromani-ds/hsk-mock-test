@@ -30,8 +30,14 @@ class DataEngine:
             with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 
-            # Load Words
+            # Load Words (Deduplicated)
             words_data = data.get("vocabulary", [])
+            unique_words = {}
+            for w in words_data:
+                hanzi = w["hanzi"]
+                if hanzi not in unique_words:
+                    unique_words[hanzi] = w
+            
             self.words[level] = [
                 Word(
                     hanzi=w["hanzi"],
@@ -39,8 +45,10 @@ class DataEngine:
                     meaning=w["meaning"],
                     level=level,
                     radicals=w.get("radicals", []),
-                    sentences=w.get("sentences", [])
-                ) for w in words_data
+                    sentences=w.get("sentences", []),
+                    pos=w.get("pos", []),
+                    frequency=w.get("frequency", 0)
+                ) for w in unique_words.values()
             ]
 
             # Load Grammar

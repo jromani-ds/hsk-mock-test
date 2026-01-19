@@ -6,6 +6,7 @@ PASSING_SCORE_PERCENTAGE = 60
 # Question Types
 QUESTION_TYPE_MC = "MC"
 QUESTION_TYPE_FIB = "FIB"
+QUESTION_TYPE_WRITING = "WRITING"
 
 # HSK 3.0 Exam Structure (Approximate Question Counts)
 # Based on official guidelines (Listening + Reading + Writing)

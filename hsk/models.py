@@ -11,6 +11,8 @@ class Word:
     level: int
     radicals: List[str] = field(default_factory=list)
     sentences: List[str] = field(default_factory=list)
+    pos: List[str] = field(default_factory=list)
+    frequency: int = 0
 
 
 @dataclass

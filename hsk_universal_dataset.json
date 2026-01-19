@@ -1,0 +1,3622 @@
+{
+  "HSK_Level_1": [
+    {
+      "question_id": "CLOZE_冷",
+      "prompt": "Fill in the blank: 今天早上很____，不是吗?",
+      "correct_answer": "冷",
+      "options": [
+        "高",
+        "白",
+        "都",
+        "冷"
+      ],
+      "metadata": {
+        "target_level": 1,
+        "target_meaning": "surname Leng",
+        "target_pos": [
+          "a",
+          "ad",
+          "g"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "高",
+          "meaning": "surname Gao",
+          "pos": [
+            "a",
+            "ad",
+            "v",
+            "g"
+          ]
+        },
+        {
+          "hanzi": "白",
+          "meaning": "surname Bai",
+          "pos": [
+            "a",
+            "nr",
+            "d",
+            "b",
+            "v",
+            "g"
+          ]
+        },
+        {
+          "hanzi": "都",
+          "meaning": "surname Du",
+          "pos": [
+            "d",
+            "g"
+          ]
+        },
+        {
+          "hanzi": "冷",
+          "meaning": "surname Leng",
+          "pos": [
+            "a",
+            "ad",
+            "g"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_门口",
+      "prompt": "Fill in the blank: 在____的女孩是谁？",
+      "correct_answer": "门口",
+      "options": [
+        "国外",
+        "门口",
+        "车上",
+        "地上"
+      ],
+      "metadata": {
+        "target_level": 1,
+        "target_meaning": "doorway; gate",
+        "target_pos": [
+          "s"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "国外",
+          "meaning": "abroad; external (affairs); overseas; foreign",
+          "pos": [
+            "s"
+          ]
+        },
+        {
+          "hanzi": "门口",
+          "meaning": "doorway; gate",
+          "pos": [
+            "s"
+          ]
+        },
+        {
+          "hanzi": "车上",
+          "meaning": "Car",
+          "pos": [
+            "s"
+          ]
+        },
+        {
+          "hanzi": "地上",
+          "meaning": "on the ground; on the floor",
+          "pos": [
+            "s"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_这些",
+      "prompt": "Fill in the blank: “____车是你的吗？”“是的，是我的。”",
+      "correct_answer": "这些",
+      "options": [
+        "那边",
+        "那些",
+        "哪些",
+        "这些"
+      ],
+      "metadata": {
+        "target_level": 1,
+        "target_meaning": "these",
+        "target_pos": [
+          "r"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "那边",
+          "meaning": "over there; yonder",
+          "pos": [
+            "r"
+          ]
+        },
+        {
+          "hanzi": "那些",
+          "meaning": "those",
+          "pos": [
+            "r"
+          ]
+        },
+        {
+          "hanzi": "哪些",
+          "meaning": "which ones?; who?; what?",
+          "pos": [
+            "r"
+          ]
+        },
+        {
+          "hanzi": "这些",
+          "meaning": "these",
+          "pos": [
+            "r"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_没关系",
+      "prompt": "Fill in the blank: 你喜不喜欢____。",
+      "correct_answer": "没关系",
+      "options": [
+        "打电话",
+        "没关系",
+        "没事儿",
+        "没什么"
+      ],
+      "metadata": {
+        "target_level": 1,
+        "target_meaning": "it doesn't matter",
+        "target_pos": [
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "打电话",
+          "meaning": "to make a telephone call",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "没关系",
+          "meaning": "it doesn't matter",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "没事儿",
+          "meaning": "to have spare time; free from work; it's not important; it's nothing; never mind",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "没什么",
+          "meaning": "nothing; it doesn't matter; it's nothing; never mind",
+          "pos": [
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_元",
+      "prompt": "Fill in the blank: 他花了1000日____买这本书。",
+      "correct_answer": "元",
+      "options": [
+        "本",
+        "包",
+        "班",
+        "元"
+      ],
+      "metadata": {
+        "target_level": 1,
+        "target_meaning": "surname Yuan; the Yuan or Mongol dynasty (1279-1368)",
+        "target_pos": [
+          "q",
+          "tg"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "本",
+          "meaning": "root; stem; origin; source; this; the current; original; inherent; originally; classifier for books, periodicals, files etc",
+          "pos": [
+            "r",
+            "q",
+            "d",
+            "n"
+          ]
+        },
+        {
+          "hanzi": "包",
+          "meaning": "surname Bao",
+          "pos": [
+            "v",
+            "n",
+            "q"
+          ]
+        },
+        {
+          "hanzi": "班",
+          "meaning": "surname Ban",
+          "pos": [
+            "n",
+            "q",
+            "nr"
+          ]
+        },
+        {
+          "hanzi": "元",
+          "meaning": "surname Yuan; the Yuan or Mongol dynasty (1279-1368)",
+          "pos": [
+            "q",
+            "tg"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_看到",
+      "prompt": "Fill in the blank: 你____什么拿什么。",
+      "correct_answer": "看到",
+      "options": [
+        "看到",
+        "见面",
+        "看见",
+        "看病"
+      ],
+      "metadata": {
+        "target_level": 1,
+        "target_meaning": "to see",
+        "target_pos": [
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "看到",
+          "meaning": "to see",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "见面",
+          "meaning": "to meet; to see each other",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "看见",
+          "meaning": "to see; to catch sight of",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "看病",
+          "meaning": "to visit a doctor; to see a patient",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_课",
+      "prompt": "Fill in the blank: 你最喜欢哪门____?",
+      "correct_answer": "课",
+      "options": [
+        "分",
+        "的",
+        "点",
+        "课"
+      ],
+      "metadata": {
+        "target_level": 1,
+        "target_meaning": "subject; course; class; lesson; to levy; tax; form of divination",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "分",
+          "meaning": "to divide; to separate; to distribute; to allocate; to distinguish (good and bad); (bound form) branch of (an organization); sub- (as in 局); fraction; one tenth (of certain units); unit of length equivalent to 0.33 cm; minute (unit of time); minute (angular measurement unit); a point (in sports or games); 0.01 yuan (unit of money)",
+          "pos": [
+            "t",
+            "qt",
+            "v",
+            "g",
+            "n",
+            "d"
+          ]
+        },
+        {
+          "hanzi": "的",
+          "meaning": "of; ~'s (possessive particle); (used after an attribute); (used to form a nominal expression); (used at the end of a declarative sentence for emphasis); also pr. [dì] or [di] in poetry and songs",
+          "pos": [
+            "u",
+            "n"
+          ]
+        },
+        {
+          "hanzi": "点",
+          "meaning": "point; dot; drop; speck; o'clock; point (in space or time); to draw a dot; to check on a list; to choose; to order (food in a restaurant); to touch briefly; to hint; to light; to ignite; to pour a liquid drop by drop; (old) one fifth of a two-hour watch 更; dot stroke in Chinese characters; classifier for items",
+          "pos": [
+            "qt",
+            "n",
+            "t",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "课",
+          "meaning": "subject; course; class; lesson; to levy; tax; form of divination",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_出来",
+      "prompt": "Fill in the blank: 有个男人开门走了____。",
+      "correct_answer": "出来",
+      "options": [
+        "出去",
+        "进来",
+        "出来",
+        "回来"
+      ],
+      "metadata": {
+        "target_level": 1,
+        "target_meaning": "to come out; to appear; to arise",
+        "target_pos": [
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "出去",
+          "meaning": "to go out",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "进来",
+          "meaning": "to come in",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "出来",
+          "meaning": "to come out; to appear; to arise",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "回来",
+          "meaning": "to return; to come back",
+          "pos": [
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_子",
+      "prompt": "Fill in the blank: 这个馓____太好吃了！",
+      "correct_answer": "子",
+      "options": [
+        "老",
+        "男",
+        "子",
+        "分"
+      ],
+      "metadata": {
+        "target_level": 1,
+        "target_meaning": "son; child; seed; egg; small thing; 1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat; Viscount, fourth of five orders of nobility 位; ancient Chinese compass point: 0° (north); subsidiary; subordinate; sub-",
+        "target_pos": [
+          "g",
+          "q"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "老",
+          "meaning": "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity; old (of people); venerable (person); experienced; of long standing; always; all the time; of the past; very; outdated; (of meat etc) tough",
+          "pos": [
+            "a",
+            "d",
+            "g"
+          ]
+        },
+        {
+          "hanzi": "男",
+          "meaning": "male; Baron, lowest of five orders of nobility 位",
+          "pos": [
+            "b",
+            "g"
+          ]
+        },
+        {
+          "hanzi": "子",
+          "meaning": "son; child; seed; egg; small thing; 1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat; Viscount, fourth of five orders of nobility 位; ancient Chinese compass point: 0° (north); subsidiary; subordinate; sub-",
+          "pos": [
+            "g",
+            "q"
+          ]
+        },
+        {
+          "hanzi": "分",
+          "meaning": "to divide; to separate; to distribute; to allocate; to distinguish (good and bad); (bound form) branch of (an organization); sub- (as in 局); fraction; one tenth (of certain units); unit of length equivalent to 0.33 cm; minute (unit of time); minute (angular measurement unit); a point (in sports or games); 0.01 yuan (unit of money)",
+          "pos": [
+            "t",
+            "qt",
+            "v",
+            "g",
+            "n",
+            "d"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_风",
+      "prompt": "Fill in the blank: 今天比昨天多____。",
+      "correct_answer": "风",
+      "options": [
+        "白",
+        "爸",
+        "字",
+        "风"
+      ],
+      "metadata": {
+        "target_level": 1,
+        "target_meaning": "wind; news; style; custom; manner",
+        "target_pos": [
+          "n",
+          "g"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "白",
+          "meaning": "surname Bai",
+          "pos": [
+            "a",
+            "nr",
+            "d",
+            "b",
+            "v",
+            "g"
+          ]
+        },
+        {
+          "hanzi": "爸",
+          "meaning": "father; dad; pa; papa",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "字",
+          "meaning": "letter; symbol; character; word; courtesy or style name traditionally given to males aged 20 in dynastic China",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "风",
+          "meaning": "wind; news; style; custom; manner",
+          "pos": [
+            "n",
+            "g"
+          ]
+        }
+      ]
+    }
+  ],
+  "HSK_Level_2": [
+    {
+      "question_id": "CLOZE_全国",
+      "prompt": "Fill in the blank: 我们的分店佈满____。",
+      "correct_answer": "全国",
+      "options": [
+        "全身",
+        "全国",
+        "全年",
+        "全家"
+      ],
+      "metadata": {
+        "target_level": 2,
+        "target_meaning": "whole nation; nationwide; countrywide; national",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "全身",
+          "meaning": "the whole body; (typography) em",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "全国",
+          "meaning": "whole nation; nationwide; countrywide; national",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "全年",
+          "meaning": "the whole year; all year long",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "全家",
+          "meaning": "whole family",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_做法",
+      "prompt": "Fill in the blank: 他有他自己的____。",
+      "correct_answer": "做法",
+      "options": [
+        "做法",
+        "单位",
+        "好事",
+        "办法"
+      ],
+      "metadata": {
+        "target_level": 2,
+        "target_meaning": "way of handling sth; method for making; work method; recipe; practice",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "做法",
+          "meaning": "way of handling sth; method for making; work method; recipe; practice",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "单位",
+          "meaning": "unit (of measure); unit (group of people as a whole); work unit (place of employment, esp. in the PRC prior to economic reform)",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "好事",
+          "meaning": "good action, deed, thing or work (also sarcastic, \"a fine thing indeed\"); charity; happy occasion; Daoist or Buddhist ceremony for the souls of the dead",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "办法",
+          "meaning": "means; method; way (of doing sth)",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_云",
+      "prompt": "Fill in the blank: 今天的____比昨天的多。",
+      "correct_answer": "云",
+      "options": [
+        "表",
+        "道",
+        "笔",
+        "云"
+      ],
+      "metadata": {
+        "target_level": 2,
+        "target_meaning": "(classical) to say",
+        "target_pos": [
+          "n",
+          "g",
+          "b"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "表",
+          "meaning": "exterior surface; family relationship via females; to show (one's opinion); a model; a table (listing information); a form; a meter (measuring sth)",
+          "pos": [
+            "n",
+            "g"
+          ]
+        },
+        {
+          "hanzi": "道",
+          "meaning": "road; path; principle; truth; morality; reason; skill; method; Dao (of Daoism); to say; to speak; to talk; classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process; (old) circuit (administrative division)",
+          "pos": [
+            "qv",
+            "n",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "笔",
+          "meaning": "pen; pencil; writing brush; to write or compose; the strokes of Chinese characters; classifier for sums of money, deals",
+          "pos": [
+            "q",
+            "n"
+          ]
+        },
+        {
+          "hanzi": "云",
+          "meaning": "(classical) to say",
+          "pos": [
+            "n",
+            "g",
+            "b"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_闻",
+      "prompt": "Fill in the blank: 你还知道花____起来是怎样的吗？",
+      "correct_answer": "闻",
+      "options": [
+        "闻",
+        "成",
+        "查",
+        "封"
+      ],
+      "metadata": {
+        "target_level": 2,
+        "target_meaning": "surname Wen",
+        "target_pos": [
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "闻",
+          "meaning": "surname Wen",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "成",
+          "meaning": "surname Cheng",
+          "pos": [
+            "v",
+            "q"
+          ]
+        },
+        {
+          "hanzi": "查",
+          "meaning": "surname Zha",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "封",
+          "meaning": "surname Feng",
+          "pos": [
+            "q",
+            "v",
+            "g"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_教育",
+      "prompt": "Fill in the blank: 他很会____人。",
+      "correct_answer": "教育",
+      "options": [
+        "放心",
+        "放下",
+        "教育",
+        "教学"
+      ],
+      "metadata": {
+        "target_level": 2,
+        "target_meaning": "to educate; to teach; education",
+        "target_pos": [
+          "vn",
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "放心",
+          "meaning": "to feel relieved; to feel reassured; to be at ease",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "放下",
+          "meaning": "to lay down; to put down; to let go of; to relinquish; to set aside; to lower (the blinds etc)",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "教育",
+          "meaning": "to educate; to teach; education",
+          "pos": [
+            "vn",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "教学",
+          "meaning": "to teach (as a professor)",
+          "pos": [
+            "vn",
+            "n",
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_科学",
+      "prompt": "Fill in the blank: ____和数学我都喜欢。",
+      "correct_answer": "科学",
+      "options": [
+        "个子",
+        "中医",
+        "科学",
+        "饺子"
+      ],
+      "metadata": {
+        "target_level": 2,
+        "target_meaning": "science; scientific knowledge; scientific; rational",
+        "target_pos": [
+          "n",
+          "a",
+          "ad"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "个子",
+          "meaning": "height; stature; build; size",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "中医",
+          "meaning": "traditional Chinese medical science; a doctor trained in Chinese medicine",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "科学",
+          "meaning": "science; scientific knowledge; scientific; rational",
+          "pos": [
+            "n",
+            "a",
+            "ad"
+          ]
+        },
+        {
+          "hanzi": "饺子",
+          "meaning": "dumpling; pot-sticker",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_拉",
+      "prompt": "Fill in the blank: 这个沙____有柠檬的味道。",
+      "correct_answer": "拉",
+      "options": [
+        "挺",
+        "画",
+        "接",
+        "拉"
+      ],
+      "metadata": {
+        "target_level": 2,
+        "target_meaning": "to pull; to play (a bowed instrument); to drag; to draw; to chat; (coll.) to empty one's bowels",
+        "target_pos": [
+          "v",
+          "b"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "挺",
+          "meaning": "straight; erect; to stick out (a part of the body); to (physically) straighten up; to support; to withstand; outstanding; (coll.) quite; very; classifier for machine guns",
+          "pos": [
+            "d",
+            "v",
+            "g",
+            "q"
+          ]
+        },
+        {
+          "hanzi": "画",
+          "meaning": "to draw; to paint; picture; painting; to draw (a line) (variant of 划); stroke of a Chinese character (variant of 划); (calligraphy) horizontal stroke (variant of 划)",
+          "pos": [
+            "n",
+            "v",
+            "q"
+          ]
+        },
+        {
+          "hanzi": "接",
+          "meaning": "to receive; to answer (the phone); to meet or welcome sb; to connect; to catch; to join; to extend; to take one's turn on duty; to take over for sb",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "拉",
+          "meaning": "to pull; to play (a bowed instrument); to drag; to draw; to chat; (coll.) to empty one's bowels",
+          "pos": [
+            "v",
+            "b"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_检查",
+      "prompt": "Fill in the blank: 我们得去让眼医师____你的眼睛。",
+      "correct_answer": "检查",
+      "options": [
+        "干杯",
+        "检查",
+        "关机",
+        "带来"
+      ],
+      "metadata": {
+        "target_level": 2,
+        "target_meaning": "inspection; to examine; to inspect",
+        "target_pos": [
+          "v",
+          "vn"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "干杯",
+          "meaning": "to drink a toast; Cheers! (proposing a toast); Here's to you!; Bottoms up!; lit. dry cup",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "检查",
+          "meaning": "inspection; to examine; to inspect",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "关机",
+          "meaning": "to turn off (a machine or device); to finish shooting a film",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "带来",
+          "meaning": "to bring; (fig.) to bring about; to produce",
+          "pos": [
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_漂亮",
+      "prompt": "Fill in the blank: 你给了我一个那么____的礼物，真是太好了。",
+      "correct_answer": "漂亮",
+      "options": [
+        "漂亮",
+        "不错",
+        "流利",
+        "不满"
+      ],
+      "metadata": {
+        "target_level": 2,
+        "target_meaning": "pretty; beautiful",
+        "target_pos": [
+          "a"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "漂亮",
+          "meaning": "pretty; beautiful",
+          "pos": [
+            "a"
+          ]
+        },
+        {
+          "hanzi": "不错",
+          "meaning": "correct; right; not bad; pretty good",
+          "pos": [
+            "a"
+          ]
+        },
+        {
+          "hanzi": "流利",
+          "meaning": "fluent",
+          "pos": [
+            "a",
+            "ad"
+          ]
+        },
+        {
+          "hanzi": "不满",
+          "meaning": "resentful; discontented; dissatisfied",
+          "pos": [
+            "an",
+            "a",
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_客人",
+      "prompt": "Fill in the blank: 我回来了！啊？我们有____啊？",
+      "correct_answer": "客人",
+      "options": [
+        "顾客",
+        "爱人",
+        "客人",
+        "游客"
+      ],
+      "metadata": {
+        "target_level": 2,
+        "target_meaning": "visitor; guest; customer; client",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "顾客",
+          "meaning": "customer; client",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "爱人",
+          "meaning": "spouse (PRC); lover (non-PRC)",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "客人",
+          "meaning": "visitor; guest; customer; client",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "游客",
+          "meaning": "traveler; tourist; (online gaming) guest player",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    }
+  ],
+  "HSK_Level_3": [
+    {
+      "question_id": "CLOZE_适应",
+      "prompt": "Fill in the blank: 你很快就会____你的新学校。",
+      "correct_answer": "适应",
+      "options": [
+        "报道",
+        "配合",
+        "适应",
+        "适合"
+      ],
+      "metadata": {
+        "target_level": 3,
+        "target_meaning": "to adapt; to fit; to suit",
+        "target_pos": [
+          "v",
+          "vn"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "报道",
+          "meaning": "to report (news); report",
+          "pos": [
+            "v",
+            "n",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "配合",
+          "meaning": "matching; fitting in with; compatible with; to correspond; to fit; to conform to; rapport; to coordinate with; to act in concert with; to cooperate; to become man and wife; to combine parts of machine",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "适应",
+          "meaning": "to adapt; to fit; to suit",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "适合",
+          "meaning": "to fit; to suit",
+          "pos": [
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_关系",
+      "prompt": "Fill in the blank: Jim 和同学的____不太好。",
+      "correct_answer": "关系",
+      "options": [
+        "关系",
+        "从事",
+        "只有",
+        "交往"
+      ],
+      "metadata": {
+        "target_level": 3,
+        "target_meaning": "relation; relationship; to concern; to affect; to have to do with; guanxi",
+        "target_pos": [
+          "n",
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "关系",
+          "meaning": "relation; relationship; to concern; to affect; to have to do with; guanxi",
+          "pos": [
+            "n",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "从事",
+          "meaning": "to go for; to engage in; to undertake; to deal with; to handle; to do",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "只有",
+          "meaning": "only have ...; there is only ...; (used in combination with 才) it is only if one ... (that one can ...) (Example: 只有通过治疗才能痊愈 \"the only way to cure it is with therapy\"); it is only ... (who ...) (Example: 要 \"only men would have such a requirement\"); (used to indicate that one has no alternative) one can only (do a certain thing) (Example: 服 \"the only thing you can do is give in\")",
+          "pos": [
+            "c",
+            "d",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "交往",
+          "meaning": "to associate (with); to have contact (with); to hang out (with); to date; (interpersonal) relationship; association; contact",
+          "pos": [
+            "vn",
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_糖",
+      "prompt": "Fill in the blank: 喝茶时不要加____。",
+      "correct_answer": "糖",
+      "options": [
+        "糖",
+        "布",
+        "板",
+        "报"
+      ],
+      "metadata": {
+        "target_level": 3,
+        "target_meaning": "sugar; sweets; candy",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "糖",
+          "meaning": "sugar; sweets; candy",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "布",
+          "meaning": "variant of 布; to announce; to spread",
+          "pos": [
+            "n",
+            "g",
+            "b",
+            "nr"
+          ]
+        },
+        {
+          "hanzi": "板",
+          "meaning": "board; plank; plate; shutter; table tennis bat; clappers (music); accented beat in Chinese music; hard; stiff; to stop smiling or look serious",
+          "pos": [
+            "g",
+            "n",
+            "v",
+            "q",
+            "a"
+          ]
+        },
+        {
+          "hanzi": "报",
+          "meaning": "to announce; to inform; report; newspaper; recompense; revenge",
+          "pos": [
+            "n",
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_创造",
+      "prompt": "Fill in the blank: ____性是人类发展的一个重要方面。",
+      "correct_answer": "创造",
+      "options": [
+        "创造",
+        "成就",
+        "产生",
+        "造成"
+      ],
+      "metadata": {
+        "target_level": 3,
+        "target_meaning": "to create; to bring about; to produce; to set (a record)",
+        "target_pos": [
+          "v",
+          "vn"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "创造",
+          "meaning": "to create; to bring about; to produce; to set (a record)",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "成就",
+          "meaning": "accomplishment; success; achievement; to achieve (a result); to create; to bring about",
+          "pos": [
+            "n",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "产生",
+          "meaning": "to arise; to come into being; to come about; to give rise to; to bring into being; to bring about; to produce; to engender; to generate",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "造成",
+          "meaning": "to bring about; to create; to cause",
+          "pos": [
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_时代",
+      "prompt": "Fill in the blank: 她给我看了一张她母亲学生____的照片。",
+      "correct_answer": "时代",
+      "options": [
+        "消息",
+        "时代",
+        "美元",
+        "媒体"
+      ],
+      "metadata": {
+        "target_level": 3,
+        "target_meaning": "Time, US weekly news magazine",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "消息",
+          "meaning": "news; information",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "时代",
+          "meaning": "Time, US weekly news magazine",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "美元",
+          "meaning": "American dollar; US dollar",
+          "pos": [
+            "q",
+            "n"
+          ]
+        },
+        {
+          "hanzi": "媒体",
+          "meaning": "media, esp. news media",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_容易",
+      "prompt": "Fill in the blank: 打网球对我来说很____。",
+      "correct_answer": "容易",
+      "options": [
+        "结实",
+        "丰富",
+        "容易",
+        "明确"
+      ],
+      "metadata": {
+        "target_level": 3,
+        "target_meaning": "easy; straightforward; likely; liable to; apt to",
+        "target_pos": [
+          "a",
+          "ad"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "结实",
+          "meaning": "to bear fruit",
+          "pos": [
+            "a"
+          ]
+        },
+        {
+          "hanzi": "丰富",
+          "meaning": "to enrich; rich; plentiful; abundant",
+          "pos": [
+            "a",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "容易",
+          "meaning": "easy; straightforward; likely; liable to; apt to",
+          "pos": [
+            "a",
+            "ad"
+          ]
+        },
+        {
+          "hanzi": "明确",
+          "meaning": "clear-cut; definite; explicit; to clarify; to specify; to make definite",
+          "pos": [
+            "a",
+            "v",
+            "ad"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_文字",
+      "prompt": "Fill in the blank: 我需要有人来帮我修____处理器。",
+      "correct_answer": "文字",
+      "options": [
+        "文字",
+        "外文",
+        "方式",
+        "性格"
+      ],
+      "metadata": {
+        "target_level": 3,
+        "target_meaning": "character; script; writing; written language; writing style; phraseology",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "文字",
+          "meaning": "character; script; writing; written language; writing style; phraseology",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "外文",
+          "meaning": "foreign language (written)",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "方式",
+          "meaning": "way; manner; style; mode; pattern",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "性格",
+          "meaning": "nature; disposition; temperament; character",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_听力",
+      "prompt": "Fill in the blank: 我爷爷的____不太好。",
+      "correct_answer": "听力",
+      "options": [
+        "听力",
+        "本领",
+        "能力",
+        "才能"
+      ],
+      "metadata": {
+        "target_level": 3,
+        "target_meaning": "hearing; listening ability",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "听力",
+          "meaning": "hearing; listening ability",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "本领",
+          "meaning": "skill; ability; capability",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "能力",
+          "meaning": "capability; ability",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "才能",
+          "meaning": "talent; ability; capacity",
+          "pos": [
+            "n",
+            "v",
+            "nr"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_力量",
+      "prompt": "Fill in the blank: 我相信，知识就是____。",
+      "correct_answer": "力量",
+      "options": [
+        "生意",
+        "力量",
+        "实力",
+        "动力"
+      ],
+      "metadata": {
+        "target_level": 3,
+        "target_meaning": "power; force; strength",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "生意",
+          "meaning": "life force; vitality",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "力量",
+          "meaning": "power; force; strength",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "实力",
+          "meaning": "strength",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "动力",
+          "meaning": "motive power; force; (fig.) motivation; impetus",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_巧",
+      "prompt": "Fill in the blank: 去得早不如去得____。",
+      "correct_answer": "巧",
+      "options": [
+        "板",
+        "古",
+        "巧",
+        "富"
+      ],
+      "metadata": {
+        "target_level": 3,
+        "target_meaning": "opportunely; coincidentally; as it happens; skillful; timely",
+        "target_pos": [
+          "a",
+          "ad"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "板",
+          "meaning": "board; plank; plate; shutter; table tennis bat; clappers (music); accented beat in Chinese music; hard; stiff; to stop smiling or look serious",
+          "pos": [
+            "g",
+            "n",
+            "v",
+            "q",
+            "a"
+          ]
+        },
+        {
+          "hanzi": "古",
+          "meaning": "surname Gu",
+          "pos": [
+            "a",
+            "tg"
+          ]
+        },
+        {
+          "hanzi": "巧",
+          "meaning": "opportunely; coincidentally; as it happens; skillful; timely",
+          "pos": [
+            "a",
+            "ad"
+          ]
+        },
+        {
+          "hanzi": "富",
+          "meaning": "surname Fu",
+          "pos": [
+            "g",
+            "a"
+          ]
+        }
+      ]
+    }
+  ],
+  "HSK_Level_4": [
+    {
+      "question_id": "CLOZE_作出",
+      "prompt": "Fill in the blank: 汤姆是最先____反应的。",
+      "correct_answer": "作出",
+      "options": [
+        "出售",
+        "对付",
+        "作出",
+        "摆脱"
+      ],
+      "metadata": {
+        "target_level": 4,
+        "target_meaning": "to put out; to come up with; to make (a choice, decision, proposal, response, comment etc); to issue (a permit, statement, explanation, apology, reassurance to the public etc); to draw (conclusion); to deliver (speech, judgment); to devise (explanation); to extract",
+        "target_pos": [
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "出售",
+          "meaning": "to sell; to offer for sale; to put on the market",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "对付",
+          "meaning": "to handle; to deal with; to tackle; to get by with; to make do; (dialect) (usu. used in the negative) to get along with (sb)",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "作出",
+          "meaning": "to put out; to come up with; to make (a choice, decision, proposal, response, comment etc); to issue (a permit, statement, explanation, apology, reassurance to the public etc); to draw (conclusion); to deliver (speech, judgment); to devise (explanation); to extract",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "摆脱",
+          "meaning": "to break away from; to cast off (old ideas etc); to get rid of; to break away (from); to break out (of); to free oneself from; to extricate oneself",
+          "pos": [
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_盘",
+      "prompt": "Fill in the blank: 我保证在一个星期内把这____录影带还给你。",
+      "correct_answer": "盘",
+      "options": [
+        "顶",
+        "批",
+        "盘",
+        "卷"
+      ],
+      "metadata": {
+        "target_level": 4,
+        "target_meaning": "plate; dish; tray; board; hard drive (computing); to build; to coil; to check; to examine; to transfer (property); to make over; classifier for food: dish, helping; to coil; classifier for coils of wire; classifier for games of chess",
+        "target_pos": [
+          "qv",
+          "g",
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "顶",
+          "meaning": "apex; crown of the head; top; roof; most; to carry on the head; to push to the top; to go against; to replace; to substitute; to be subjected to (an aerial bombing, hailstorm etc); (slang) to \"bump\" a forum thread to raise its profile; classifier for headwear, hats, veils etc",
+          "pos": [
+            "v",
+            "q",
+            "g",
+            "f"
+          ]
+        },
+        {
+          "hanzi": "批",
+          "meaning": "to ascertain; to act on; to criticize; to pass on; classifier for batches, lots, military flights; tier (for the ranking of universities and colleges)",
+          "pos": [
+            "q",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "盘",
+          "meaning": "plate; dish; tray; board; hard drive (computing); to build; to coil; to check; to examine; to transfer (property); to make over; classifier for food: dish, helping; to coil; classifier for coils of wire; classifier for games of chess",
+          "pos": [
+            "qv",
+            "g",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "卷",
+          "meaning": "to roll up; roll; classifier for small rolled things (wad of paper money, movie reel etc)",
+          "pos": [
+            "q",
+            "v",
+            "g"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_关闭",
+      "prompt": "Fill in the blank: ____所有的门和窗户。",
+      "correct_answer": "关闭",
+      "options": [
+        "测试",
+        "关闭",
+        "倒闭",
+        "上门"
+      ],
+      "metadata": {
+        "target_level": 4,
+        "target_meaning": "to close; to shut (a window etc); (of a shop, school etc) to shut down",
+        "target_pos": [
+          "v",
+          "vn"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "测试",
+          "meaning": "to test (machinery etc); to test (a person's skill in a particular area); a test; (computing) beta (version of software)",
+          "pos": [
+            "vn",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "关闭",
+          "meaning": "to close; to shut (a window etc); (of a shop, school etc) to shut down",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "倒闭",
+          "meaning": "to go bankrupt; to close down",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "上门",
+          "meaning": "to drop in; to visit; to lock a door; (of a shop) to close; to go and live with one's wife's family, in effect becoming a member of her family",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_距离",
+      "prompt": "Fill in the blank: 交际者的关系往往会反映在他们之间的____上。",
+      "correct_answer": "距离",
+      "options": [
+        "距离",
+        "针对",
+        "面试",
+        "孙子"
+      ],
+      "metadata": {
+        "target_level": 4,
+        "target_meaning": "distance; to be apart from",
+        "target_pos": [
+          "n",
+          "p"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "距离",
+          "meaning": "distance; to be apart from",
+          "pos": [
+            "n",
+            "p"
+          ]
+        },
+        {
+          "hanzi": "针对",
+          "meaning": "to target; to focus on; to be aimed at or against; in response to",
+          "pos": [
+            "p",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "面试",
+          "meaning": "to be interviewed (as a candidate); interview",
+          "pos": [
+            "v",
+            "vn",
+            "n"
+          ]
+        },
+        {
+          "hanzi": "孙子",
+          "meaning": "Sun Tzu, also known as Sun Wu 孙武 (c. 500 BC, dates of birth and death uncertain), general, strategist and philosopher of the Spring and Autumn Period (700-475 BC), believed to be the author of the “Art of War” 孙子兵法, one of the Seven Military Classics of ancient China 武经七书",
+          "pos": [
+            "n",
+            "nr"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_从此",
+      "prompt": "Fill in the blank: 她____就留在国外了。",
+      "correct_answer": "从此",
+      "options": [
+        "从此",
+        "单独",
+        "反而",
+        "按时"
+      ],
+      "metadata": {
+        "target_level": 4,
+        "target_meaning": "from now on; since then; henceforth",
+        "target_pos": [
+          "d"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "从此",
+          "meaning": "from now on; since then; henceforth",
+          "pos": [
+            "d"
+          ]
+        },
+        {
+          "hanzi": "单独",
+          "meaning": "alone; by oneself; on one's own",
+          "pos": [
+            "d",
+            "b"
+          ]
+        },
+        {
+          "hanzi": "反而",
+          "meaning": "on the contrary; instead",
+          "pos": [
+            "d"
+          ]
+        },
+        {
+          "hanzi": "按时",
+          "meaning": "on time; before deadline; on schedule",
+          "pos": [
+            "d"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_丈夫",
+      "prompt": "Fill in the blank: 他会是我妹妹的好____的。",
+      "correct_answer": "丈夫",
+      "options": [
+        "夫妻",
+        "夫妇",
+        "老公",
+        "丈夫"
+      ],
+      "metadata": {
+        "target_level": 4,
+        "target_meaning": "husband",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "夫妻",
+          "meaning": "husband and wife; married couple",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "夫妇",
+          "meaning": "a (married) couple; husband and wife",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "老公",
+          "meaning": "(coll.) husband",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "丈夫",
+          "meaning": "husband",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_受不了",
+      "prompt": "Fill in the blank: 我____那种政治家。",
+      "correct_answer": "受不了",
+      "options": [
+        "受不了",
+        "没法儿"
+      ],
+      "metadata": {
+        "target_level": 4,
+        "target_meaning": "unbearable; unable to endure; can't stand",
+        "target_pos": [
+          "l"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "受不了",
+          "meaning": "unbearable; unable to endure; can't stand",
+          "pos": [
+            "l"
+          ]
+        },
+        {
+          "hanzi": "没法儿",
+          "meaning": "Can't",
+          "pos": [
+            "l"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_原则",
+      "prompt": "Fill in the blank: 诚实地回答你的问题对他来说是个____问题。",
+      "correct_answer": "原则",
+      "options": [
+        "阿姨",
+        "规则",
+        "原料",
+        "原则"
+      ],
+      "metadata": {
+        "target_level": 4,
+        "target_meaning": "principle; doctrine",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "阿姨",
+          "meaning": "maternal aunt; step-mother; childcare worker; nursemaid; woman of similar age to one's parents (term of address used by child)",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "规则",
+          "meaning": "rule; regulation; rules and regulations",
+          "pos": [
+            "n",
+            "a"
+          ]
+        },
+        {
+          "hanzi": "原料",
+          "meaning": "raw material",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "原则",
+          "meaning": "principle; doctrine",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_零食",
+      "prompt": "Fill in the blank: 我们有任何我可以当____吃的东西吗？",
+      "correct_answer": "零食",
+      "options": [
+        "食堂",
+        "阿姨",
+        "零食",
+        "粮食"
+      ],
+      "metadata": {
+        "target_level": 4,
+        "target_meaning": "between-meal nibbles; snacks",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "食堂",
+          "meaning": "dining hall; cafeteria",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "阿姨",
+          "meaning": "maternal aunt; step-mother; childcare worker; nursemaid; woman of similar age to one's parents (term of address used by child)",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "零食",
+          "meaning": "between-meal nibbles; snacks",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "粮食",
+          "meaning": "foodstuff; cereals",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_减",
+      "prompt": "Fill in the blank: 汤姆____量30KG。",
+      "correct_answer": "减",
+      "options": [
+        "减",
+        "摆",
+        "沉",
+        "败"
+      ],
+      "metadata": {
+        "target_level": 4,
+        "target_meaning": "to lower; to decrease; to reduce; to subtract; to diminish",
+        "target_pos": [
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "减",
+          "meaning": "to lower; to decrease; to reduce; to subtract; to diminish",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "摆",
+          "meaning": "to arrange; to exhibit; to move to and fro; a pendulum",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "沉",
+          "meaning": "to submerge; to immerse; to sink; to keep down; to lower; to drop; deep; profound; heavy",
+          "pos": [
+            "v",
+            "a"
+          ]
+        },
+        {
+          "hanzi": "败",
+          "meaning": "to defeat; to damage; to lose (to an opponent); to fail; to wither",
+          "pos": [
+            "v"
+          ]
+        }
+      ]
+    }
+  ],
+  "HSK_Level_5": [
+    {
+      "question_id": "CLOZE_跟随",
+      "prompt": "Fill in the blank: 我已经准备好____你了。",
+      "correct_answer": "跟随",
+      "options": [
+        "按摩",
+        "安慰",
+        "跟随",
+        "拜访"
+      ],
+      "metadata": {
+        "target_level": 5,
+        "target_meaning": "to follow",
+        "target_pos": [
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "按摩",
+          "meaning": "massage; to massage",
+          "pos": [
+            "vn",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "安慰",
+          "meaning": "to comfort; to console",
+          "pos": [
+            "v",
+            "vn",
+            "an",
+            "a"
+          ]
+        },
+        {
+          "hanzi": "跟随",
+          "meaning": "to follow",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "拜访",
+          "meaning": "to pay a visit; to call on",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_传真",
+      "prompt": "Fill in the blank: 我前几天收到了你的____。",
+      "correct_answer": "传真",
+      "options": [
+        "传达",
+        "真理",
+        "传递",
+        "传真"
+      ],
+      "metadata": {
+        "target_level": 5,
+        "target_meaning": "fax; facsimile",
+        "target_pos": [
+          "n",
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "传达",
+          "meaning": "to pass on; to convey; to relay; to transmit; transmission",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "真理",
+          "meaning": "truth",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "传递",
+          "meaning": "to transmit; to pass on to sb else; (math.) transitive",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "传真",
+          "meaning": "fax; facsimile",
+          "pos": [
+            "n",
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_原始",
+      "prompt": "Fill in the blank: 巫术在____社会扮演重要角色。",
+      "correct_answer": "原始",
+      "options": [
+        "安慰",
+        "薄弱",
+        "原始",
+        "自豪"
+      ],
+      "metadata": {
+        "target_level": 5,
+        "target_meaning": "first; original; primitive; original (document etc)",
+        "target_pos": [
+          "a"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "安慰",
+          "meaning": "to comfort; to console",
+          "pos": [
+            "v",
+            "vn",
+            "an",
+            "a"
+          ]
+        },
+        {
+          "hanzi": "薄弱",
+          "meaning": "weak; frail",
+          "pos": [
+            "a"
+          ]
+        },
+        {
+          "hanzi": "原始",
+          "meaning": "first; original; primitive; original (document etc)",
+          "pos": [
+            "a"
+          ]
+        },
+        {
+          "hanzi": "自豪",
+          "meaning": "proud (of one's achievements etc)",
+          "pos": [
+            "a",
+            "an"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_拥有",
+      "prompt": "Fill in the blank: “如果不努力工作就不会____成功的人生”，这种说法得到广泛的认可。",
+      "correct_answer": "拥有",
+      "options": [
+        "带有",
+        "占有",
+        "有着",
+        "拥有"
+      ],
+      "metadata": {
+        "target_level": 5,
+        "target_meaning": "to have; to possess",
+        "target_pos": [
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "带有",
+          "meaning": "to have as a feature or characteristic; to have an element of (confidence, sweetness, malevolence etc); to carry (a pathogen, connotation etc)",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "占有",
+          "meaning": "to have; to own; to hold; to occupy; to possess; to account for (a high proportion etc)",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "有着",
+          "meaning": "to have; to possess",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "拥有",
+          "meaning": "to have; to possess",
+          "pos": [
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_寿司",
+      "prompt": "Fill in the blank: 这家店的____很好吃。",
+      "correct_answer": "寿司",
+      "options": [
+        "岸上",
+        "长寿",
+        "安慰",
+        "寿司"
+      ],
+      "metadata": {
+        "target_level": 5,
+        "target_meaning": "sushi",
+        "target_pos": []
+      },
+      "options_detail": [
+        {
+          "hanzi": "岸上",
+          "meaning": "ashore; on the riverbank",
+          "pos": [
+            "s"
+          ]
+        },
+        {
+          "hanzi": "长寿",
+          "meaning": "Changshou suburban district of Chongqing municipality, formerly in Sichuan",
+          "pos": [
+            "a",
+            "an",
+            "ns"
+          ]
+        },
+        {
+          "hanzi": "安慰",
+          "meaning": "to comfort; to console",
+          "pos": [
+            "v",
+            "vn",
+            "an",
+            "a"
+          ]
+        },
+        {
+          "hanzi": "寿司",
+          "meaning": "sushi",
+          "pos": []
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_分类",
+      "prompt": "Fill in the blank: 邮局根据寄信地址将邮件进行____。",
+      "correct_answer": "分类",
+      "options": [
+        "分类",
+        "分解",
+        "处分",
+        "分成"
+      ],
+      "metadata": {
+        "target_level": 5,
+        "target_meaning": "to classify",
+        "target_pos": [
+          "vn",
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "分类",
+          "meaning": "to classify",
+          "pos": [
+            "vn",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "分解",
+          "meaning": "to resolve; to decompose; to break down",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "处分",
+          "meaning": "to discipline sb; to punish; disciplinary action; to deal with (a matter)",
+          "pos": [
+            "n",
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "分成",
+          "meaning": "to divide (into); to split a bonus; to break into; tenths; percentage allotment",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_严肃",
+      "prompt": "Fill in the blank: ____的讲在这里只有我一个人不会双语的吗？",
+      "correct_answer": "严肃",
+      "options": [
+        "尊重",
+        "严厉",
+        "严肃",
+        "厉害"
+      ],
+      "metadata": {
+        "target_level": 5,
+        "target_meaning": "solemn; grave; serious; earnest; severe",
+        "target_pos": [
+          "a",
+          "ad",
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "尊重",
+          "meaning": "to esteem; to respect; to honor; to value; eminent; serious; proper",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "严厉",
+          "meaning": "severe; strict",
+          "pos": [
+            "a",
+            "ad"
+          ]
+        },
+        {
+          "hanzi": "严肃",
+          "meaning": "solemn; grave; serious; earnest; severe",
+          "pos": [
+            "a",
+            "ad",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "厉害",
+          "meaning": "(used to describe sb or sth that makes a very strong impression, whether favorable or unfavorable) terrible; intense; severe; devastating; amazing; awesome; outstanding; (of a person) stern; strict; harsh; shrewd; tough; (of an animal) fierce; (of a resemblance) striking; (of liquor or chili pepper) strong; (of bacteria) virulent",
+          "pos": [
+            "a",
+            "an"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_忍不住",
+      "prompt": "Fill in the blank: 一逛马路，总要____买点东西回去。",
+      "correct_answer": "忍不住",
+      "options": [
+        "忍不住",
+        "舍不得",
+        "意味着",
+        "有利于"
+      ],
+      "metadata": {
+        "target_level": 5,
+        "target_meaning": "cannot help; unable to bear",
+        "target_pos": [
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "忍不住",
+          "meaning": "cannot help; unable to bear",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "舍不得",
+          "meaning": "to hate to do sth; to hate to part with; to begrudge",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "意味着",
+          "meaning": "to signify; to mean; to imply",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "有利于",
+          "meaning": "to be advantageous to; to be beneficial for",
+          "pos": [
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_用来",
+      "prompt": "Fill in the blank: 那就是那台他____写文章的电脑。",
+      "correct_answer": "用来",
+      "options": [
+        "通用",
+        "完了",
+        "用来",
+        "心疼"
+      ],
+      "metadata": {
+        "target_level": 5,
+        "target_meaning": "to be used for",
+        "target_pos": [
+          "v",
+          "nr"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "通用",
+          "meaning": "to use anywhere, anytime (card, ticket etc); to be used by everyone (language, textbook etc); (of two or more things) interchangeable",
+          "pos": [
+            "nz",
+            "vn",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "完了",
+          "meaning": "to be finished; to be done for; ruined; gone to the dogs; oh no",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "用来",
+          "meaning": "to be used for",
+          "pos": [
+            "v",
+            "nr"
+          ]
+        },
+        {
+          "hanzi": "心疼",
+          "meaning": "to love dearly; to feel sorry for sb; to regret; to grudge; to be distressed",
+          "pos": [
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_感想",
+      "prompt": "Fill in the blank: 你对这场比赛有甚么____？",
+      "correct_answer": "感想",
+      "options": [
+        "悲剧",
+        "感想",
+        "白酒",
+        "包装"
+      ],
+      "metadata": {
+        "target_level": 5,
+        "target_meaning": "impressions; reflections; thoughts",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "悲剧",
+          "meaning": "tragedy",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "感想",
+          "meaning": "impressions; reflections; thoughts",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "白酒",
+          "meaning": "baijiu, a spirit usually distilled from sorghum; (Tw) white wine (abbr. for 酒)",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "包装",
+          "meaning": "to pack; to package; to wrap; packaging",
+          "pos": [
+            "n",
+            "v",
+            "vn"
+          ]
+        }
+      ]
+    }
+  ],
+  "HSK_Level_6": [
+    {
+      "question_id": "CLOZE_踏实",
+      "prompt": "Fill in the blank: 我是个脚____地的人。",
+      "correct_answer": "踏实",
+      "options": [
+        "过时",
+        "抱歉",
+        "不便",
+        "踏实"
+      ],
+      "metadata": {
+        "target_level": 6,
+        "target_meaning": "firmly-based; steady; steadfast; to have peace of mind; free from anxiety; Taiwan pr. [tà shí]",
+        "target_pos": [
+          "a"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "过时",
+          "meaning": "old-fashioned; out of date; to be later than the time stipulated or agreed upon",
+          "pos": [
+            "a"
+          ]
+        },
+        {
+          "hanzi": "抱歉",
+          "meaning": "to be sorry; to feel apologetic; sorry!",
+          "pos": [
+            "a",
+            "an",
+            "ad"
+          ]
+        },
+        {
+          "hanzi": "不便",
+          "meaning": "inconvenient; inappropriate; unsuitable; short of cash",
+          "pos": [
+            "an",
+            "a",
+            "ad",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "踏实",
+          "meaning": "firmly-based; steady; steadfast; to have peace of mind; free from anxiety; Taiwan pr. [tà shí]",
+          "pos": [
+            "a"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_升值",
+      "prompt": "Fill in the blank: 日元强力____。",
+      "correct_answer": "升值",
+      "options": [
+        "办公",
+        "增值",
+        "升值",
+        "波动"
+      ],
+      "metadata": {
+        "target_level": 6,
+        "target_meaning": "to rise in value; to appreciate",
+        "target_pos": [
+          "v",
+          "vn"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "办公",
+          "meaning": "to handle official business; to work (esp. in an office)",
+          "pos": [
+            "vn",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "增值",
+          "meaning": "to appreciate (financially); to increase in value; value-added (accountancy)",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "升值",
+          "meaning": "to rise in value; to appreciate",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "波动",
+          "meaning": "to undulate; to fluctuate; wave motion; rise and fall",
+          "pos": [
+            "vn",
+            "v",
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_繁殖",
+      "prompt": "Fill in the blank: 老鼠____得很快。",
+      "correct_answer": "繁殖",
+      "options": [
+        "繁殖",
+        "办公",
+        "挨打",
+        "罢工"
+      ],
+      "metadata": {
+        "target_level": 6,
+        "target_meaning": "to breed; to reproduce; to propagate",
+        "target_pos": [
+          "v",
+          "vn"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "繁殖",
+          "meaning": "to breed; to reproduce; to propagate",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "办公",
+          "meaning": "to handle official business; to work (esp. in an office)",
+          "pos": [
+            "vn",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "挨打",
+          "meaning": "to take a beating; to get thrashed; to come under attack",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "罢工",
+          "meaning": "a strike; to go on strike",
+          "pos": [
+            "vn",
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_副",
+      "prompt": "Fill in the blank: 你如果能把全____精力放进去，要学会英文并不是难事。",
+      "correct_answer": "副",
+      "options": [
+        "股",
+        "集",
+        "串",
+        "副"
+      ],
+      "metadata": {
+        "target_level": 6,
+        "target_meaning": "secondary; auxiliary; deputy; assistant; vice-; abbr. for 副词 adverb; classifier for pairs, sets of things & facial expressions",
+        "target_pos": [
+          "b",
+          "q"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "股",
+          "meaning": "thigh; part of a whole; portion of a sum; (stock) share; strand of a thread; low-level administrative unit, translated as \"section\" or \"department\" etc, ranked below 科; classifier for long winding things like ropes, rivers etc; classifier for smoke, smells etc: thread, puff, whiff; classifier for bands of people, gangs etc; classifier for sudden forceful actions",
+          "pos": [
+            "q",
+            "n"
+          ]
+        },
+        {
+          "hanzi": "集",
+          "meaning": "to gather; to collect; collected works; classifier for sections of a TV series etc: episode",
+          "pos": [
+            "q",
+            "g"
+          ]
+        },
+        {
+          "hanzi": "串",
+          "meaning": "to string together; to skewer; to connect wrongly; to gang up; to rove; string; bunch; skewer; classifier for things that are strung together, or in a bunch, or in a row: string of, bunch of, series of; to make a swift or abrupt linear movement (like a bead on an abacus); to move across",
+          "pos": [
+            "q",
+            "v",
+            "n"
+          ]
+        },
+        {
+          "hanzi": "副",
+          "meaning": "secondary; auxiliary; deputy; assistant; vice-; abbr. for 副词 adverb; classifier for pairs, sets of things & facial expressions",
+          "pos": [
+            "b",
+            "q"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_出路",
+      "prompt": "Fill in the blank: 那是唯一的____。",
+      "correct_answer": "出路",
+      "options": [
+        "阴影",
+        "桥梁",
+        "出路",
+        "焦点"
+      ],
+      "metadata": {
+        "target_level": 6,
+        "target_meaning": "a way out (lit. and fig.); opportunity for advancement; a way forward; outlet (for one's products)",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "阴影",
+          "meaning": "(lit. and fig.) shadow",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "桥梁",
+          "meaning": "bridge (lit. and fig.)",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "出路",
+          "meaning": "a way out (lit. and fig.); opportunity for advancement; a way forward; outlet (for one's products)",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "焦点",
+          "meaning": "focal point; focus (lit. and fig.)",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_会见",
+      "prompt": "Fill in the blank: 如果他打电话过来，告诉他我晚点____他的。",
+      "correct_answer": "会见",
+      "options": [
+        "补习",
+        "会见",
+        "出事",
+        "出台"
+      ],
+      "metadata": {
+        "target_level": 6,
+        "target_meaning": "to meet with (sb who is paying a visit)",
+        "target_pos": [
+          "v",
+          "vn"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "补习",
+          "meaning": "to take extra lessons in a cram school or with a private tutor",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "会见",
+          "meaning": "to meet with (sb who is paying a visit)",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "出事",
+          "meaning": "to have an accident; to meet with a mishap",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "出台",
+          "meaning": "to officially launch (a policy, program etc); to appear on stage; to appear publicly; (of a bar girl) to leave with a client",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_首次",
+      "prompt": "Fill in the blank: 在一九五八年，巴西____夺得了世界盃的冠军。",
+      "correct_answer": "首次",
+      "options": [
+        "多半",
+        "大批",
+        "首次",
+        "一时"
+      ],
+      "metadata": {
+        "target_level": 6,
+        "target_meaning": "first; first time; for the first time",
+        "target_pos": [
+          "m"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "多半",
+          "meaning": "most; mostly; most likely",
+          "pos": [
+            "d",
+            "m"
+          ]
+        },
+        {
+          "hanzi": "大批",
+          "meaning": "large quantities of",
+          "pos": [
+            "m"
+          ]
+        },
+        {
+          "hanzi": "首次",
+          "meaning": "first; first time; for the first time",
+          "pos": [
+            "m"
+          ]
+        },
+        {
+          "hanzi": "一时",
+          "meaning": "a period of time; a while; for a short while; temporary; momentary; at the same time",
+          "pos": [
+            "t",
+            "m"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_集",
+      "prompt": "Fill in the blank: 这套全____的第五卷找不到了。",
+      "correct_answer": "集",
+      "options": [
+        "集",
+        "拐",
+        "股",
+        "串"
+      ],
+      "metadata": {
+        "target_level": 6,
+        "target_meaning": "to gather; to collect; collected works; classifier for sections of a TV series etc: episode",
+        "target_pos": [
+          "q",
+          "g"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "集",
+          "meaning": "to gather; to collect; collected works; classifier for sections of a TV series etc: episode",
+          "pos": [
+            "q",
+            "g"
+          ]
+        },
+        {
+          "hanzi": "拐",
+          "meaning": "to turn (a corner etc); to kidnap; to swindle; to misappropriate; seven (used as a substitute for 七); variant of 拐",
+          "pos": [
+            "v",
+            "g"
+          ]
+        },
+        {
+          "hanzi": "股",
+          "meaning": "thigh; part of a whole; portion of a sum; (stock) share; strand of a thread; low-level administrative unit, translated as \"section\" or \"department\" etc, ranked below 科; classifier for long winding things like ropes, rivers etc; classifier for smoke, smells etc: thread, puff, whiff; classifier for bands of people, gangs etc; classifier for sudden forceful actions",
+          "pos": [
+            "q",
+            "n"
+          ]
+        },
+        {
+          "hanzi": "串",
+          "meaning": "to string together; to skewer; to connect wrongly; to gang up; to rove; string; bunch; skewer; classifier for things that are strung together, or in a bunch, or in a row: string of, bunch of, series of; to make a swift or abrupt linear movement (like a bead on an abacus); to move across",
+          "pos": [
+            "q",
+            "v",
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_剑",
+      "prompt": "Fill in the blank: 警方很能明白有人偷了我的信用卡，并提了好多钱。让他们相信”有人偷了我的魔____“要难得多。",
+      "correct_answer": "剑",
+      "options": [
+        "股",
+        "肝",
+        "剑",
+        "串"
+      ],
+      "metadata": {
+        "target_level": 6,
+        "target_meaning": "double-edged sword; classifier for blows of a sword",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "股",
+          "meaning": "thigh; part of a whole; portion of a sum; (stock) share; strand of a thread; low-level administrative unit, translated as \"section\" or \"department\" etc, ranked below 科; classifier for long winding things like ropes, rivers etc; classifier for smoke, smells etc: thread, puff, whiff; classifier for bands of people, gangs etc; classifier for sudden forceful actions",
+          "pos": [
+            "q",
+            "n"
+          ]
+        },
+        {
+          "hanzi": "肝",
+          "meaning": "liver; (slang) to put in long hours, typically late into the night, playing (a video game); (of a video game) involving a lot of repetition in order to progress; grindy",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "剑",
+          "meaning": "double-edged sword; classifier for blows of a sword",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "串",
+          "meaning": "to string together; to skewer; to connect wrongly; to gang up; to rove; string; bunch; skewer; classifier for things that are strung together, or in a bunch, or in a row: string of, bunch of, series of; to make a swift or abrupt linear movement (like a bead on an abacus); to move across",
+          "pos": [
+            "q",
+            "v",
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_讲课",
+      "prompt": "Fill in the blank: 假如你在老师____的时候再集中一点去听讲的话，你应该就能弄明白了。",
+      "correct_answer": "讲课",
+      "options": [
+        "挨打",
+        "补课",
+        "讲课",
+        "挨着"
+      ],
+      "metadata": {
+        "target_level": 6,
+        "target_meaning": "teach; lecture",
+        "target_pos": [
+          "v",
+          "vn"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "挨打",
+          "meaning": "to take a beating; to get thrashed; to come under attack",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "补课",
+          "meaning": "to make up missed lesson; to reschedule a class",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "讲课",
+          "meaning": "teach; lecture",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "挨着",
+          "meaning": "near",
+          "pos": [
+            "v"
+          ]
+        }
+      ]
+    }
+  ],
+  "HSK_Level_7": [
+    {
+      "question_id": "FIB_固定短语 - 其他",
+      "prompt": "Complete the pattern for '固定短语 - 其他': 短语. Example: See 其他",
+      "correct_answer": "归根到底",
+      "options": [],
+      "metadata": {
+        "target_level": 9,
+        "target_meaning": "after all; in the final analysis; ultimately",
+        "target_pos": [
+          "l"
+        ]
+      },
+      "options_detail": []
+    }
+  ],
+  "HSK_Level_8": [
+    {
+      "question_id": "FIB_复句 - 解说复句",
+      "prompt": "Complete the pattern for '复句 - 解说复句': 句子的类型. Example: See 解说复句",
+      "correct_answer": "……，也就是说……",
+      "options": [],
+      "metadata": {
+        "target_level": 8,
+        "target_meaning": "",
+        "target_pos": []
+      },
+      "options_detail": []
+    }
+  ],
+  "HSK_Level_9": [
+    {
+      "question_id": "CLOZE_金属",
+      "prompt": "Fill in the blank: 酸会和____物质起化学反应。",
+      "correct_answer": "金属",
+      "options": [
+        "属性",
+        "定金",
+        "所属",
+        "金属"
+      ],
+      "metadata": {
+        "target_level": 9,
+        "target_meaning": "metal",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "属性",
+          "meaning": "attribute; property",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "定金",
+          "meaning": "down payment; advance payment",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "所属",
+          "meaning": "one's affiliation (i.e. the organization one is affiliated with); subordinate (i.e. those subordinate to oneself); belonging to; affiliated; under one's command",
+          "pos": [
+            "n",
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "金属",
+          "meaning": "metal",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_魅力",
+      "prompt": "Fill in the blank: 自大狂和自恋狂的分别，在于自大狂渴望能够手握大权、受人敬畏，而自恋狂却比较想拥有____、得到爱戴。许多疯子和历史上的伟人都属于前者。",
+      "correct_answer": "魅力",
+      "options": [
+        "效力",
+        "力度",
+        "魅力",
+        "武力"
+      ],
+      "metadata": {
+        "target_level": 9,
+        "target_meaning": "charm; fascination; glamor; charisma",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "效力",
+          "meaning": "effectiveness; positive effect; to serve (in some capacity)",
+          "pos": [
+            "n",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "力度",
+          "meaning": "strength; vigor; efforts; (music) dynamics",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "魅力",
+          "meaning": "charm; fascination; glamor; charisma",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "武力",
+          "meaning": "military force",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_革命",
+      "prompt": "Fill in the blank: 这场____已经带来了很多改变。",
+      "correct_answer": "革命",
+      "options": [
+        "出丑",
+        "拜会",
+        "革命",
+        "要命"
+      ],
+      "metadata": {
+        "target_level": 9,
+        "target_meaning": "to withdraw the mandate of heaven (and transition to a new dynasty) (original meaning); revolution; revolutionary; to revolt (against sb or sth); to revolutionize (sth); (separable verb sometimes used in the pattern 革noun的命)",
+        "target_pos": [
+          "vn",
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "出丑",
+          "meaning": "shameful; scandalous; to be humiliated; to make a fool of sb or oneself; to make sb lose face",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "拜会",
+          "meaning": "(often used in the context of diplomacy) to meet with; to pay a visit to; to call on",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "革命",
+          "meaning": "to withdraw the mandate of heaven (and transition to a new dynasty) (original meaning); revolution; revolutionary; to revolt (against sb or sth); to revolutionize (sth); (separable verb sometimes used in the pattern 革noun的命)",
+          "pos": [
+            "vn",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "要命",
+          "meaning": "to cause sb's death; extremely; terribly; (used in complaining about sth) to be a nuisance",
+          "pos": [
+            "v",
+            "a"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_领域",
+      "prompt": "Fill in the blank: 让我们记住这一点，如果说这场金融危机教会了我们什么东西的话，那就是我们不可能在金融以外的____处于困境的同时拥有繁荣兴旺的华尔街。",
+      "correct_answer": "领域",
+      "options": [
+        "领域",
+        "地域",
+        "流域",
+        "领土"
+      ],
+      "metadata": {
+        "target_level": 9,
+        "target_meaning": "domain; sphere; field; territory; area",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "领域",
+          "meaning": "domain; sphere; field; territory; area",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "地域",
+          "meaning": "area; district; region",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "流域",
+          "meaning": "river basin; valley; drainage area",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "领土",
+          "meaning": "territory",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_唯",
+      "prompt": "Fill in the blank: 俗话说：三百六十行，行行出状元；可俗话又说：万般皆下品，____有读书高！",
+      "correct_answer": "唯",
+      "options": [
+        "独",
+        "略",
+        "则",
+        "唯"
+      ],
+      "metadata": {
+        "target_level": 9,
+        "target_meaning": "only; alone; -ism (in Chinese, a prefix, often combined with a suffix such as 主义 or 论, e.g. 唯理论, rationalism)",
+        "target_pos": [
+          "d"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "独",
+          "meaning": "alone; independent; single; sole; only",
+          "pos": [
+            "d",
+            "a"
+          ]
+        },
+        {
+          "hanzi": "略",
+          "meaning": "brief; sketchy; outline; summary; to omit; (bound form before a single-character verb) a bit; somewhat; slightly; plan; strategy; to capture (territory)",
+          "pos": [
+            "d",
+            "g"
+          ]
+        },
+        {
+          "hanzi": "则",
+          "meaning": "(literary) (conjunction used to express contrast with a previous clause) but; then; (bound form) standard; norm; (bound form) principle; (literary) to imitate; to follow; classifier for written items",
+          "pos": [
+            "d",
+            "c",
+            "q",
+            "g"
+          ]
+        },
+        {
+          "hanzi": "唯",
+          "meaning": "only; alone; -ism (in Chinese, a prefix, often combined with a suffix such as 主义 or 论, e.g. 唯理论, rationalism)",
+          "pos": [
+            "d"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_生物",
+      "prompt": "Fill in the blank: 据说火星上是没有____的。",
+      "correct_answer": "生物",
+      "options": [
+        "生平",
+        "生涯",
+        "生物",
+        "生机"
+      ],
+      "metadata": {
+        "target_level": 9,
+        "target_meaning": "organism; living creature; life form; biological",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "生平",
+          "meaning": "life (a person's whole life); in one's entire life",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "生涯",
+          "meaning": "career; life (way in which sb lives); period of one's life",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "生物",
+          "meaning": "organism; living creature; life form; biological",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "生机",
+          "meaning": "opportunity to live; to reprieve from death; life force; vitality",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_婚姻",
+      "prompt": "Fill in the blank: 现在女性考虑____的唯一条件,应该就是妳爱不爱他,他爱不爱妳,是不是真心真意对妳,跟他在一起会不会有压力,会不会快乐,而非他拥有什么!",
+      "correct_answer": "婚姻",
+      "options": [
+        "婚纱",
+        "喜酒",
+        "婚姻",
+        "喜事"
+      ],
+      "metadata": {
+        "target_level": 9,
+        "target_meaning": "matrimony; wedding; marriage",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "婚纱",
+          "meaning": "wedding dress",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "喜酒",
+          "meaning": "wedding feast; liquor drunk at a wedding feast",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "婚姻",
+          "meaning": "matrimony; wedding; marriage",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "喜事",
+          "meaning": "happy occasion; wedding",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_淘汰",
+      "prompt": "Fill in the blank: 共产主义失败了，而无产阶级专政现在也经被____了。虽然资本主义逐渐取而代之，但现在的资本主义对于人类还是一个威胁。",
+      "correct_answer": "淘汰",
+      "options": [
+        "熄火",
+        "处方",
+        "淘汰",
+        "出局"
+      ],
+      "metadata": {
+        "target_level": 9,
+        "target_meaning": "to wash out; (fig.) to cull; to weed out; to eliminate; to die out; to phase out",
+        "target_pos": [
+          "v",
+          "vn"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "熄火",
+          "meaning": "(of fire, lamp etc) to go out; to put out (fire); (fig.) to die down; (of a vehicle) to stall",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "处方",
+          "meaning": "medical prescription; to write out a prescription; (fig.) recommendation; advice",
+          "pos": [
+            "n",
+            "v"
+          ]
+        },
+        {
+          "hanzi": "淘汰",
+          "meaning": "to wash out; (fig.) to cull; to weed out; to eliminate; to die out; to phase out",
+          "pos": [
+            "v",
+            "vn"
+          ]
+        },
+        {
+          "hanzi": "出局",
+          "meaning": "(of a batter) to be put out (in baseball); to be dismissed (in cricket); (of a player or team) to be eliminated from a competition; (fig.) to be weeded out; to get the chop (in a competitive environment)",
+          "pos": [
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_官员",
+      "prompt": "Fill in the blank: 虽然她知道那家公司不但对当地____行贿而且也给她的家人带了了极大的麻烦，可她还是应聘了那家公司的一份工作。",
+      "correct_answer": "官员",
+      "options": [
+        "跑车",
+        "官员",
+        "官吏",
+        "雇员"
+      ],
+      "metadata": {
+        "target_level": 9,
+        "target_meaning": "official (in an organization or government); administrator",
+        "target_pos": [
+          "n"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "跑车",
+          "meaning": "racing bicycle; racing car; sports car; (of a conductor or attendant) to work on a train; (mining) (of a cable-car) to slip away (in an accident)",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "官员",
+          "meaning": "official (in an organization or government); administrator",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "官吏",
+          "meaning": "bureaucrat; official",
+          "pos": [
+            "n"
+          ]
+        },
+        {
+          "hanzi": "雇员",
+          "meaning": "employee",
+          "pos": [
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "CLOZE_毫无",
+      "prompt": "Fill in the blank: 没有爱情的生活____意义。",
+      "correct_answer": "毫无",
+      "options": [
+        "无意",
+        "无缘",
+        "拜会",
+        "毫无"
+      ],
+      "metadata": {
+        "target_level": 9,
+        "target_meaning": "not in the least; to completely lack",
+        "target_pos": [
+          "v"
+        ]
+      },
+      "options_detail": [
+        {
+          "hanzi": "无意",
+          "meaning": "inadvertent; accidental; to have no intention of (doing sth)",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "无缘",
+          "meaning": "to have no opportunity; no way (of doing sth); no chance; no connection; not placed (in a competition); (in pop lyrics) no chance of love, no place to be together etc",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "拜会",
+          "meaning": "(often used in the context of diplomacy) to meet with; to pay a visit to; to call on",
+          "pos": [
+            "v"
+          ]
+        },
+        {
+          "hanzi": "毫无",
+          "meaning": "not in the least; to completely lack",
+          "pos": [
+            "v"
+          ]
+        }
+      ]
+    }
+  ]
+}
