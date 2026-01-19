@@ -3,7 +3,7 @@
 __version__ = "0.1.0"
 
 
-def main():
+def main() -> None:
     """Main application entry point"""
     print("HSK Application")
     print(f"Version: {__version__}")

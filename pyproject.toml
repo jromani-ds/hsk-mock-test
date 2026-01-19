@@ -6,16 +6,31 @@ authors = [
     {name = "Joe Romani",email = "joseph.romani@gmail.com"}
 ]
 readme = "README.md"
-requires-python = "^3.9"
+requires-python = ">=3.9"
 dependencies = [
 ]
 
+[dependency-groups]
+dev = [
+    "pytest (<9.0)",
+    "ruff",
+    "mypy",
+    "pre-commit",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "UP", "B", "A", "C4", "SIM"]
+ignore = []
+
+[tool.mypy]
+python_version = "3.9"
+strict = true
+ignore_missing_imports = true
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
-
-[dependency-groups]
-dev = [
-    "pytest (<9.0)"
-]
